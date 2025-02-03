@@ -2,24 +2,29 @@ Hey there! Here's a few stuff about me, in no particular order.
 
 I like:
 
-    Computers
-    Beer
-    Open-source
-    Cats
-    Mechanical Keyboards
+    :white_check_mark: Computers
+    :white_check_mark: Beer
+    :white_check_mark: Open-source
+    :white_check_mark: Cats
+    :white_check_mark: Mechanical Keyboards
+    :white_check_mark: Running
+    :white_check_mark: Workout
 
 I spend most of my time doing:
 
-    Kernels
-    Security
-    Reading
-    Bike
+    :zap: Reading
+    :zap: Running
+    :zap: Workout
+    :zap: Bike
+    :zap: Coding
+    :zap: Kernels
+    :zap: Security
 
 I dislike:
 
-    Racism/Sexism/Discrimination
-    Capitalism
-    Uncommented code
+    :rotating_light: Racism/Sexism/Discrimination
+    :rotating_light: Capitalism
+    :rotating_light: Uncommented code
 
 You can find me on Twitter, my blog or lying on a luandkg.
 
