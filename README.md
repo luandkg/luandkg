@@ -1,34 +1,11 @@
-Hey there! Here's a few stuff about me, in no particular order.
+Com formação acadêmica sólida, sou graduado em Ciências Naturais (2016) e em Computação (2023) pela Universidade de Brasília (UnB), e possuo especialização em Neurociência pelo Instituto Saber (2018).
 
-I have a degree in Natural Sciences (2016) and Computing (2023) from the University of Brasília - UnB, I have a specialization in Neuroscience from Instituto Saber (2018), I was a professor on a temporary contract in the teaching position at the State Secretariat of Education of the Federal District (SEEDF) during 2015 to 2023, I am currently a public servant in the position of Public Policy and Educational Management Analyst at the Secretariat of Education of the Federal District, assigned to SUPLAV, Subsecretariat of Planning, Monitoring and Evaluation, linked to the Directorate of Planning and Monitoring of the Educational Offer, in the Management of Planning and Monitoring of the Educational Offer of Regular Education, where I carry out monitoring and planning routines for the entire the offer of the Public Education Network of the Federal District.
+Atuei como professor em regime de contrato temporário na Secretaria de Estado de Educação do Distrito Federal (SEEDF) no período de 2015 a 2023. Exercia a função de Analista de Políticas Públicas e Gestão Educacional na Secretaria de Educação do Distrito Federal.
 
-I like:
+Fui lotado na Subsecretaria de Planejamento, Acompanhamento e Avaliação (SUPLAV), onde integrava a Diretoria de Planejamento e Acompanhamento da Oferta Educacional. Minhas responsabilidades incluíam rotinas de planejamento e monitoramento da oferta educacional de toda a Rede Pública de Ensino do Distrito Federal, especificamente na Gerência de Planejamento e Acompanhamento da Oferta da Educação Regular.
 
-    ✅ Computers
-    ✅ Beer
-    ✅ Open-source
-    ✅ Cats
-    ✅ Mechanical Keyboards
-    ✅ Running
-    ✅: Workout
+Paralelamente, estou aprofundando minha qualificação profissional com a pós-graduação em nível de mestrado no Programa de Pós-graduação em Informática da Universidade de Brasília (UnB).
 
-I spend most of my time doing:
-
-    ⚡ Reading
-    ⚡ Running
-    ⚡ Workout
-    ⚡ Bike
-    ⚡ Coding
-    ⚡ Kernels
-    ⚡ Security
-
-I dislike:
-
-    🚨 Racism/Sexism/Discrimination
-    🚨 Capitalism
-    🚨 Uncommented code
-
-You can find me on Twitter, my blog or lying on a luandkg.
 
 ## Skills :nerd_face:
 <p align="center">
