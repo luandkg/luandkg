@@ -1,7 +1,7 @@
 # Perfil Profissional
 
 ## 🎓 Formação Acadêmica e Especializações  
-Sou graduado em **Ciências Naturais** (2016) e em **Computação** (2023) pela **Universidade de Brasília (UnB)**, e possuo especialização em **Neurociência** pelo **Instituto Saber** (2018). Atualmente, estou cursando **mestrado na Universidade de Brasília (UnB)**, no Programa de Pós-graduação em Informática, na linha de pesquisa **Fundamentos e Teoria Computacional**, onde desenvolvo estudos na área de **programação distribuída aplicada ao processamento de dados genéticos**, com foco em **bioinformática**.
+Sou graduado em **Ciências Naturais** (2016) e em **Computação** (2023) pela **Universidade de Brasília (UnB)**, e possuo especialização em **Neurociência** pelo **Faculdade de Tecnologia de Palmas** (2018). Atualmente, estou cursando **mestrado na Universidade de Brasília (UnB)**, no Programa de Pós-graduação em Informática, na linha de pesquisa **Fundamentos e Teoria Computacional**, onde desenvolvo estudos na área de **programação distribuída aplicada ao processamento de dados genéticos**, com foco em **bioinformática**.
 
 ## 🏫 Experiência Profissional em Educação Pública  
 Entre **2015 e 2023**, atuei como **professor contratado** na **Secretaria de Estado de Educação do Distrito Federal (SEEDF)**, contribuindo diretamente para a formação de estudantes da Rede Pública de Ensino. Posteriormente, assumi o cargo de **Analista de Políticas Públicas e Gestão Educacional**, lotado na **Subsecretaria de Planejamento, Acompanhamento e Avaliação (SUPLAV)**. Nessa função, integrei a **Diretoria de Planejamento e Acompanhamento da Oferta Educacional**, sendo responsável pelo **planejamento e monitoramento da oferta educacional da Educação Regular** em todo o Distrito Federal.
