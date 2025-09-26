@@ -13,7 +13,7 @@ Em **2025**, decidi seguir um novo caminho profissional e **pedi exoneração da
 Minha pesquisa de mestrado na **Universidade de Brasília (UnB)**, vinculada à linha de pesquisa **Fundamentos e Teoria Computacional**, está inserida na interseção entre **computação de alto desempenho** e **bioinformática**, com foco em **sistemas distribuídos aplicados ao processamento de dados genéticos**. Trabalho no desenvolvimento de **arquiteturas computacionais capazes de distribuir tarefas complexas entre múltiplos nós de processamento**, otimizando tempo, escalabilidade e uso de recursos. Essa abordagem é especialmente relevante para o tratamento de **grandes volumes de dados genômicos**, como **sequenciamento de DNA** e **análise de expressão gênica**, que exigem soluções eficientes e paralelizadas. Ao integrar técnicas de **programação distribuída** com **algoritmos bioinformáticos**, busco contribuir para avanços em áreas como **medicina personalizada**, **diagnóstico molecular** e **pesquisa genética de larga escala**.
 
 
-## Skills :nerd_face:
+## :nerd_face: Habilidades em 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
