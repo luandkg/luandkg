@@ -1,10 +1,16 @@
-Com formação acadêmica sólida, sou graduado em Ciências Naturais (2016) e em Computação (2023) pela Universidade de Brasília (UnB), e possuo especialização em Neurociência pelo Instituto Saber (2018).
+# Perfil Profissional
 
-Atuei como professor em regime de contrato temporário na Secretaria de Estado de Educação do Distrito Federal (SEEDF) no período de 2015 a 2023. Atualmente, exerço a função de Analista de Políticas Públicas e Gestão Educacional na Secretaria de Educação do Distrito Federal.
+## 🎓 Formação Acadêmica e Especializações  
+Sou graduado em **Ciências Naturais** (2016) e em **Computação** (2023) pela **Universidade de Brasília (UnB)**, e possuo especialização em **Neurociência** pelo **Instituto Saber** (2018). Atualmente, estou cursando **mestrado** no Programa de Pós-graduação em Informática da UnB, onde desenvolvo pesquisa na área de **programação distribuída aplicada ao processamento de dados genéticos**, com foco em **bioinformática**.
 
-Estou lotado na Subsecretaria de Planejamento, Acompanhamento e Avaliação (SUPLAV), onde integro a Diretoria de Planejamento e Acompanhamento da Oferta Educacional. Minhas responsabilidades incluem rotinas de planejamento e monitoramento da oferta educacional de toda a Rede Pública de Ensino do Distrito Federal, especificamente na Gerência de Planejamento e Acompanhamento da Oferta da Educação Regular.
+## 🏫 Experiência Profissional em Educação Pública  
+Entre **2015 e 2023**, atuei como **professor contratado** na **Secretaria de Estado de Educação do Distrito Federal (SEEDF)**, contribuindo diretamente para a formação de estudantes da Rede Pública de Ensino. Posteriormente, assumi o cargo de **Analista de Políticas Públicas e Gestão Educacional**, lotado na **Subsecretaria de Planejamento, Acompanhamento e Avaliação (SUPLAV)**. Nessa função, integrei a **Diretoria de Planejamento e Acompanhamento da Oferta Educacional**, sendo responsável pelo **planejamento e monitoramento da oferta educacional da Educação Regular** em todo o Distrito Federal.
 
-Paralelamente, estou aprofundando minha qualificação profissional com a pós-graduação em nível de mestrado no Programa de Pós-graduação em Informática da Universidade de Brasília (UnB). Minha linha de pesquisa é em programação distribuída com foco em processamento de dados genéticos na área de bioinformática.
+## 💼 Transição para o Setor de Tecnologia Bancária  
+Em **2024**, decidi seguir um novo caminho profissional e **pedi exoneração da SEEDF** para me dedicar integralmente à área de tecnologia. Atualmente, trabalho como **Desenvolvedor FullStack** na **maior empresa pública de tecnologia do setor bancário no Brasil**. Nessa função, atuo no desenvolvimento de **soluções digitais escaláveis e inovadoras** que impulsionam a **transformação digital dos serviços financeiros e bancários** oferecidos à população.
+
+## 🧬 Pesquisa em Bioinformática  
+Minha pesquisa de mestrado está inserida na interseção entre **computação de alto desempenho** e **bioinformática**, com foco em **sistemas distribuídos aplicados ao processamento de dados genéticos**. Trabalho no desenvolvimento de **arquiteturas computacionais capazes de distribuir tarefas complexas entre múltiplos nós de processamento**, otimizando tempo, escalabilidade e uso de recursos. Essa abordagem é especialmente relevante para o tratamento de **grandes volumes de dados genômicos**, como **sequenciamento de DNA** e **análise de expressão gênica**, que exigem soluções eficientes e paralelizadas. Ao integrar técnicas de **programação distribuída** com **algoritmos bioinformáticos**, busco contribuir para avanços em áreas como **medicina personalizada**, **diagnóstico molecular** e **pesquisa genética de larga escala**.
 
 ## Skills :nerd_face:
 <p align="center">
