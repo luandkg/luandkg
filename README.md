@@ -1,5 +1,7 @@
 # Perfil - Luan Freitas
 
+Assim como um protagonista que nunca desiste, sigo minha jornada unindo conhecimento, coragem e paixão — cada capítulo da minha vida é uma nova aventura rumo ao próximo nível, enfrentando desafios como se fossem batalhas épicas e celebrando conquistas como vitórias de um herói em constante evolução. Com determinação e curiosidade, transformo cada etapa em aprendizado e cada meta em um novo poder desbloqueado, sempre avançando para escrever uma história ainda mais inspiradora.
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=luandkg&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ## 🎓 Formação Acadêmica e Especializações  
