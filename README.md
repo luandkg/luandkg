@@ -20,7 +20,7 @@ Minha pesquisa de mestrado na **Universidade de Brasília (UnB)**, vinculada à 
 - 🇺🇸 Inglês (intermediário)
 - 🌍 Esperanto (iniciante)
 - 🇯🇵 Japonês (Algumas palavras hehehe) Leio muitos mangás
-- 
+  
 ## :nerd_face: Habilidades em 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
