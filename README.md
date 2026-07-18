@@ -28,7 +28,7 @@ Minha pesquisa de mestrado na **Universidade de Brasília (UnB)**, vinculada à 
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d/d-original.svg">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
