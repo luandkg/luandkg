@@ -1,4 +1,6 @@
-# Perfil Profissional
+# Perfil - Luan Freitas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luandkg&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ## 🎓 Formação Acadêmica e Especializações  
 Sou graduado em **Ciências Naturais** (2016) e em **Computação** (2023) pela **Universidade de Brasília (UnB)**, e possuo especialização em **Neurociência** pelo **Faculdade de Tecnologia de Palmas** (2018). Atualmente, estou cursando **mestrado na Universidade de Brasília (UnB)**, no Programa de Pós-graduação em Informática, na linha de pesquisa **Fundamentos e Teoria Computacional**, onde desenvolvo estudos na área de **programação distribuída aplicada ao processamento de dados genéticos**, com foco em **bioinformática**.
