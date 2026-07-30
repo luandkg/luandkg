@@ -2,7 +2,7 @@
 
 Assim como um protagonista que nunca desiste, sigo minha jornada unindo conhecimento, coragem e paixão — cada capítulo da minha vida é uma nova aventura rumo ao próximo nível, enfrentando desafios como se fossem batalhas épicas e celebrando conquistas como vitórias de um herói em constante evolução. Com determinação e curiosidade, transformo cada etapa em aprendizado e cada meta em um novo poder desbloqueado, sempre avançando para escrever uma história ainda mais inspiradora.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luandkg&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luandkg&theme=dark&locale=pt_BR)](https://streak-stats.demolab.com?user=luandkg&theme=dark&locale=pt_BR)
 
 ## 🎓 Formação Acadêmica e Especializações  
 Sou graduado em **Ciências Naturais** (2016) e em **Computação** (2023) pela **Universidade de Brasília (UnB)**, e possuo especialização em **Neurociência** pelo **Faculdade de Tecnologia de Palmas** (2018). Atualmente, estou cursando **mestrado na Universidade de Brasília (UnB)**, no Programa de Pós-graduação em Informática, na linha de pesquisa **Fundamentos e Teoria Computacional**, onde desenvolvo estudos na área de **programação distribuída aplicada ao processamento de dados genéticos**, com foco em **bioinformática**.
